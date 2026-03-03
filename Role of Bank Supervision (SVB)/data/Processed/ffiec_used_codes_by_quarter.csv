@@ -1,4 +1,292 @@
 concept,used_codes,report_date
+afs_amortized_cost,"RCON1772, RCFD1772",2011-03-31
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2011-03-31
+brokered_deposits,RCON2365,2011-03-31
+demand_deposits,RCON2210,2011-03-31
+deposit_listing_service_not_brokered,RCONK223,2011-03-31
+fed_funds_purchased,RCONB993,2011-03-31
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2011-03-31
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2011-03-31
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2011-03-31
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-03-31
+htm_fair_value,"RCON1771, RCFD1771",2011-03-31
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-03-31
+large_time_deposits_gt_250k,RCONJ474,2011-03-31
+nontransaction_accounts,RCON2385,2011-03-31
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-03-31
+reciprocal_brokered_deposits,RCONG803,2011-03-31
+reciprocal_deposits,,2011-03-31
+repos,"RCONB995, RCFDB995",2011-03-31
+subordinated_debt,"RCON3200, RCFD3200",2011-03-31
+total_assets,"RCON2170, RCFD2170",2011-03-31
+total_deposits,"RCON2200, RCFN2200",2011-03-31
+total_equity_capital,"RCON3210, RCFD3210",2011-03-31
+transaction_accounts,RCON2215,2011-03-31
+uninsured_deposits,RCON5597,2011-03-31
+afs_amortized_cost,"RCON1772, RCFD1772",2011-06-30
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2011-06-30
+brokered_deposits,RCON2365,2011-06-30
+demand_deposits,RCON2210,2011-06-30
+deposit_listing_service_not_brokered,RCONK223,2011-06-30
+fed_funds_purchased,RCONB993,2011-06-30
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2011-06-30
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2011-06-30
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2011-06-30
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-06-30
+htm_fair_value,"RCON1771, RCFD1771",2011-06-30
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-06-30
+large_time_deposits_gt_250k,RCONJ474,2011-06-30
+nontransaction_accounts,RCON2385,2011-06-30
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-06-30
+reciprocal_brokered_deposits,RCONG803,2011-06-30
+reciprocal_deposits,,2011-06-30
+repos,"RCONB995, RCFDB995",2011-06-30
+subordinated_debt,"RCON3200, RCFD3200",2011-06-30
+total_assets,"RCON2170, RCFD2170",2011-06-30
+total_deposits,"RCON2200, RCFN2200",2011-06-30
+total_equity_capital,"RCON3210, RCFD3210",2011-06-30
+transaction_accounts,RCON2215,2011-06-30
+uninsured_deposits,RCON5597,2011-06-30
+afs_amortized_cost,"RCON1772, RCFD1772",2011-09-30
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2011-09-30
+brokered_deposits,RCON2365,2011-09-30
+demand_deposits,RCON2210,2011-09-30
+deposit_listing_service_not_brokered,RCONK223,2011-09-30
+fed_funds_purchased,RCONB993,2011-09-30
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2011-09-30
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2011-09-30
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2011-09-30
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-09-30
+htm_fair_value,"RCON1771, RCFD1771",2011-09-30
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-09-30
+large_time_deposits_gt_250k,RCONJ474,2011-09-30
+nontransaction_accounts,RCON2385,2011-09-30
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-09-30
+reciprocal_brokered_deposits,RCONG803,2011-09-30
+reciprocal_deposits,,2011-09-30
+repos,"RCONB995, RCFDB995",2011-09-30
+subordinated_debt,"RCON3200, RCFD3200",2011-09-30
+total_assets,"RCON2170, RCFD2170",2011-09-30
+total_deposits,"RCON2200, RCFN2200",2011-09-30
+total_equity_capital,"RCON3210, RCFD3210",2011-09-30
+transaction_accounts,RCON2215,2011-09-30
+uninsured_deposits,RCON5597,2011-09-30
+afs_amortized_cost,"RCON1772, RCFD1772",2011-12-31
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2011-12-31
+brokered_deposits,RCON2365,2011-12-31
+demand_deposits,RCON2210,2011-12-31
+deposit_listing_service_not_brokered,RCONK223,2011-12-31
+fed_funds_purchased,RCONB993,2011-12-31
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2011-12-31
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2011-12-31
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2011-12-31
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-12-31
+htm_fair_value,"RCON1771, RCFD1771",2011-12-31
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-12-31
+large_time_deposits_gt_250k,RCONJ474,2011-12-31
+nontransaction_accounts,RCON2385,2011-12-31
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-12-31
+reciprocal_brokered_deposits,RCONG803,2011-12-31
+reciprocal_deposits,,2011-12-31
+repos,"RCONB995, RCFDB995",2011-12-31
+subordinated_debt,"RCON3200, RCFD3200",2011-12-31
+total_assets,"RCON2170, RCFD2170",2011-12-31
+total_deposits,"RCON2200, RCFN2200",2011-12-31
+total_equity_capital,"RCON3210, RCFD3210",2011-12-31
+transaction_accounts,RCON2215,2011-12-31
+uninsured_deposits,RCON5597,2011-12-31
+afs_amortized_cost,"RCON1772, RCFD1772",2012-03-31
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2012-03-31
+brokered_deposits,RCON2365,2012-03-31
+demand_deposits,RCON2210,2012-03-31
+deposit_listing_service_not_brokered,RCONK223,2012-03-31
+fed_funds_purchased,RCONB993,2012-03-31
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2012-03-31
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2012-03-31
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2012-03-31
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-03-31
+htm_fair_value,"RCON1771, RCFD1771",2012-03-31
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-03-31
+large_time_deposits_gt_250k,RCONJ474,2012-03-31
+nontransaction_accounts,RCON2385,2012-03-31
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-03-31
+reciprocal_brokered_deposits,RCONG803,2012-03-31
+reciprocal_deposits,,2012-03-31
+repos,"RCONB995, RCFDB995",2012-03-31
+subordinated_debt,"RCON3200, RCFD3200",2012-03-31
+total_assets,"RCON2170, RCFD2170",2012-03-31
+total_deposits,"RCON2200, RCFN2200",2012-03-31
+total_equity_capital,"RCON3210, RCFD3210",2012-03-31
+transaction_accounts,RCON2215,2012-03-31
+uninsured_deposits,RCON5597,2012-03-31
+afs_amortized_cost,"RCON1772, RCFD1772",2012-06-30
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2012-06-30
+brokered_deposits,RCON2365,2012-06-30
+demand_deposits,RCON2210,2012-06-30
+deposit_listing_service_not_brokered,RCONK223,2012-06-30
+fed_funds_purchased,RCONB993,2012-06-30
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2012-06-30
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2012-06-30
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2012-06-30
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-06-30
+htm_fair_value,"RCON1771, RCFD1771",2012-06-30
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-06-30
+large_time_deposits_gt_250k,RCONJ474,2012-06-30
+nontransaction_accounts,RCON2385,2012-06-30
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-06-30
+reciprocal_brokered_deposits,RCONG803,2012-06-30
+reciprocal_deposits,,2012-06-30
+repos,"RCONB995, RCFDB995",2012-06-30
+subordinated_debt,"RCON3200, RCFD3200",2012-06-30
+total_assets,"RCON2170, RCFD2170",2012-06-30
+total_deposits,"RCON2200, RCFN2200",2012-06-30
+total_equity_capital,"RCON3210, RCFD3210",2012-06-30
+transaction_accounts,RCON2215,2012-06-30
+uninsured_deposits,RCON5597,2012-06-30
+afs_amortized_cost,"RCON1772, RCFD1772",2012-09-30
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2012-09-30
+brokered_deposits,RCON2365,2012-09-30
+demand_deposits,RCON2210,2012-09-30
+deposit_listing_service_not_brokered,RCONK223,2012-09-30
+fed_funds_purchased,RCONB993,2012-09-30
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2012-09-30
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2012-09-30
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2012-09-30
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-09-30
+htm_fair_value,"RCON1771, RCFD1771",2012-09-30
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-09-30
+large_time_deposits_gt_250k,RCONJ474,2012-09-30
+nontransaction_accounts,RCON2385,2012-09-30
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-09-30
+reciprocal_brokered_deposits,RCONG803,2012-09-30
+reciprocal_deposits,,2012-09-30
+repos,"RCONB995, RCFDB995",2012-09-30
+subordinated_debt,"RCON3200, RCFD3200",2012-09-30
+total_assets,"RCON2170, RCFD2170",2012-09-30
+total_deposits,"RCON2200, RCFN2200",2012-09-30
+total_equity_capital,"RCON3210, RCFD3210",2012-09-30
+transaction_accounts,RCON2215,2012-09-30
+uninsured_deposits,RCON5597,2012-09-30
+afs_amortized_cost,"RCON1772, RCFD1772",2012-12-31
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2012-12-31
+brokered_deposits,RCON2365,2012-12-31
+demand_deposits,RCON2210,2012-12-31
+deposit_listing_service_not_brokered,RCONK223,2012-12-31
+fed_funds_purchased,RCONB993,2012-12-31
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2012-12-31
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2012-12-31
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2012-12-31
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-12-31
+htm_fair_value,"RCON1771, RCFD1771",2012-12-31
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-12-31
+large_time_deposits_gt_250k,RCONJ474,2012-12-31
+nontransaction_accounts,RCON2385,2012-12-31
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-12-31
+reciprocal_brokered_deposits,RCONG803,2012-12-31
+reciprocal_deposits,,2012-12-31
+repos,"RCONB995, RCFDB995",2012-12-31
+subordinated_debt,"RCON3200, RCFD3200",2012-12-31
+total_assets,"RCON2170, RCFD2170",2012-12-31
+total_deposits,"RCON2200, RCFN2200",2012-12-31
+total_equity_capital,"RCON3210, RCFD3210",2012-12-31
+transaction_accounts,RCON2215,2012-12-31
+uninsured_deposits,RCON5597,2012-12-31
+afs_amortized_cost,"RCON1772, RCFD1772",2013-03-31
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2013-03-31
+brokered_deposits,RCON2365,2013-03-31
+demand_deposits,RCON2210,2013-03-31
+deposit_listing_service_not_brokered,RCONK223,2013-03-31
+fed_funds_purchased,RCONB993,2013-03-31
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2013-03-31
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2013-03-31
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2013-03-31
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-03-31
+htm_fair_value,"RCON1771, RCFD1771",2013-03-31
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-03-31
+large_time_deposits_gt_250k,RCONJ474,2013-03-31
+nontransaction_accounts,RCON2385,2013-03-31
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-03-31
+reciprocal_brokered_deposits,RCONG803,2013-03-31
+reciprocal_deposits,,2013-03-31
+repos,"RCONB995, RCFDB995",2013-03-31
+subordinated_debt,"RCON3200, RCFD3200",2013-03-31
+total_assets,"RCON2170, RCFD2170",2013-03-31
+total_deposits,"RCON2200, RCFN2200",2013-03-31
+total_equity_capital,"RCON3210, RCFD3210",2013-03-31
+transaction_accounts,RCON2215,2013-03-31
+uninsured_deposits,RCON5597,2013-03-31
+afs_amortized_cost,"RCON1772, RCFD1772",2013-06-30
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2013-06-30
+brokered_deposits,RCON2365,2013-06-30
+demand_deposits,RCON2210,2013-06-30
+deposit_listing_service_not_brokered,RCONK223,2013-06-30
+fed_funds_purchased,RCONB993,2013-06-30
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2013-06-30
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2013-06-30
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2013-06-30
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-06-30
+htm_fair_value,"RCON1771, RCFD1771",2013-06-30
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-06-30
+large_time_deposits_gt_250k,RCONJ474,2013-06-30
+nontransaction_accounts,RCON2385,2013-06-30
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-06-30
+reciprocal_brokered_deposits,RCONG803,2013-06-30
+reciprocal_deposits,,2013-06-30
+repos,"RCONB995, RCFDB995",2013-06-30
+subordinated_debt,"RCON3200, RCFD3200",2013-06-30
+total_assets,"RCON2170, RCFD2170",2013-06-30
+total_deposits,"RCON2200, RCFN2200",2013-06-30
+total_equity_capital,"RCON3210, RCFD3210",2013-06-30
+transaction_accounts,RCON2215,2013-06-30
+uninsured_deposits,RCON5597,2013-06-30
+afs_amortized_cost,"RCON1772, RCFD1772",2013-09-30
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2013-09-30
+brokered_deposits,RCON2365,2013-09-30
+demand_deposits,RCON2210,2013-09-30
+deposit_listing_service_not_brokered,RCONK223,2013-09-30
+fed_funds_purchased,RCONB993,2013-09-30
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2013-09-30
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2013-09-30
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2013-09-30
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-09-30
+htm_fair_value,"RCON1771, RCFD1771",2013-09-30
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-09-30
+large_time_deposits_gt_250k,RCONJ474,2013-09-30
+nontransaction_accounts,RCON2385,2013-09-30
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-09-30
+reciprocal_brokered_deposits,RCONG803,2013-09-30
+reciprocal_deposits,,2013-09-30
+repos,"RCONB995, RCFDB995",2013-09-30
+subordinated_debt,"RCON3200, RCFD3200",2013-09-30
+total_assets,"RCON2170, RCFD2170",2013-09-30
+total_deposits,"RCON2200, RCFN2200",2013-09-30
+total_equity_capital,"RCON3210, RCFD3210",2013-09-30
+transaction_accounts,RCON2215,2013-09-30
+uninsured_deposits,RCON5597,2013-09-30
+afs_amortized_cost,"RCON1772, RCFD1772",2013-12-31
+afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2013-12-31
+brokered_deposits,RCON2365,2013-12-31
+demand_deposits,RCON2210,2013-12-31
+deposit_listing_service_not_brokered,RCONK223,2013-12-31
+fed_funds_purchased,RCONB993,2013-12-31
+fhlb_advances_1_3y,"RCONF056, RCFDF056",2013-12-31
+fhlb_advances_3_5y,"RCONF057, RCFDF057",2013-12-31
+fhlb_advances_gt_5y,"RCONF058, RCFDF058",2013-12-31
+fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-12-31
+htm_fair_value,"RCON1771, RCFD1771",2013-12-31
+htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-12-31
+large_time_deposits_gt_250k,RCONJ474,2013-12-31
+nontransaction_accounts,RCON2385,2013-12-31
+other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-12-31
+reciprocal_brokered_deposits,RCONG803,2013-12-31
+reciprocal_deposits,,2013-12-31
+repos,"RCONB995, RCFDB995",2013-12-31
+subordinated_debt,"RCON3200, RCFD3200",2013-12-31
+total_assets,"RCON2170, RCFD2170",2013-12-31
+total_deposits,"RCON2200, RCFN2200",2013-12-31
+total_equity_capital,"RCON3210, RCFD3210",2013-12-31
+transaction_accounts,RCON2215,2013-12-31
+uninsured_deposits,RCON5597,2013-12-31
 afs_amortized_cost,"RCON1772, RCFD1772",2014-03-31
 afs_securities,"RCON1773, RCON1773, RCFD1773, RCFD1773",2014-03-31
 brokered_deposits,RCON2365,2014-03-31

@@ -1,0 +1,37 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data directories (raw/processed/output)
+data/
+2. Data/
+3. Outputs/
+
+# Large tabular/binary data artifacts
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.dta
+*.sav
+*.rds
+*.zip
+*.gz
+*.xz
+*.7z
+
+# Model / notebook artifacts
+*.pkl
+*.pickle
+*.joblib
+
+# Keep this file tracked
+!.gitignore
