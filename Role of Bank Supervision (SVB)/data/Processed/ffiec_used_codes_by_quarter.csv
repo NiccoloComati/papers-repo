@@ -12,6 +12,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-03-31
 htm_fair_value,"RCON1771, RCFD1771",2011-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-03-31
 large_time_deposits_gt_250k,RCONJ474,2011-03-31
+mmda,RCON6810,2011-03-31
 nontransaction_accounts,RCON2385,2011-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-03-31
 reciprocal_brokered_deposits,RCONG803,2011-03-31
@@ -36,6 +37,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-06-30
 htm_fair_value,"RCON1771, RCFD1771",2011-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-06-30
 large_time_deposits_gt_250k,RCONJ474,2011-06-30
+mmda,RCON6810,2011-06-30
 nontransaction_accounts,RCON2385,2011-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-06-30
 reciprocal_brokered_deposits,RCONG803,2011-06-30
@@ -60,6 +62,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-09-30
 htm_fair_value,"RCON1771, RCFD1771",2011-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-09-30
 large_time_deposits_gt_250k,RCONJ474,2011-09-30
+mmda,RCON6810,2011-09-30
 nontransaction_accounts,RCON2385,2011-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-09-30
 reciprocal_brokered_deposits,RCONG803,2011-09-30
@@ -84,6 +87,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2011-12-31
 htm_fair_value,"RCON1771, RCFD1771",2011-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2011-12-31
 large_time_deposits_gt_250k,RCONJ474,2011-12-31
+mmda,RCON6810,2011-12-31
 nontransaction_accounts,RCON2385,2011-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2011-12-31
 reciprocal_brokered_deposits,RCONG803,2011-12-31
@@ -108,6 +112,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-03-31
 htm_fair_value,"RCON1771, RCFD1771",2012-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-03-31
 large_time_deposits_gt_250k,RCONJ474,2012-03-31
+mmda,RCON6810,2012-03-31
 nontransaction_accounts,RCON2385,2012-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-03-31
 reciprocal_brokered_deposits,RCONG803,2012-03-31
@@ -132,6 +137,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-06-30
 htm_fair_value,"RCON1771, RCFD1771",2012-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-06-30
 large_time_deposits_gt_250k,RCONJ474,2012-06-30
+mmda,RCON6810,2012-06-30
 nontransaction_accounts,RCON2385,2012-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-06-30
 reciprocal_brokered_deposits,RCONG803,2012-06-30
@@ -156,6 +162,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-09-30
 htm_fair_value,"RCON1771, RCFD1771",2012-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-09-30
 large_time_deposits_gt_250k,RCONJ474,2012-09-30
+mmda,RCON6810,2012-09-30
 nontransaction_accounts,RCON2385,2012-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-09-30
 reciprocal_brokered_deposits,RCONG803,2012-09-30
@@ -180,6 +187,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2012-12-31
 htm_fair_value,"RCON1771, RCFD1771",2012-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2012-12-31
 large_time_deposits_gt_250k,RCONJ474,2012-12-31
+mmda,RCON6810,2012-12-31
 nontransaction_accounts,RCON2385,2012-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2012-12-31
 reciprocal_brokered_deposits,RCONG803,2012-12-31
@@ -204,6 +212,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-03-31
 htm_fair_value,"RCON1771, RCFD1771",2013-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-03-31
 large_time_deposits_gt_250k,RCONJ474,2013-03-31
+mmda,RCON6810,2013-03-31
 nontransaction_accounts,RCON2385,2013-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-03-31
 reciprocal_brokered_deposits,RCONG803,2013-03-31
@@ -228,6 +237,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-06-30
 htm_fair_value,"RCON1771, RCFD1771",2013-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-06-30
 large_time_deposits_gt_250k,RCONJ474,2013-06-30
+mmda,RCON6810,2013-06-30
 nontransaction_accounts,RCON2385,2013-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-06-30
 reciprocal_brokered_deposits,RCONG803,2013-06-30
@@ -252,6 +262,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-09-30
 htm_fair_value,"RCON1771, RCFD1771",2013-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-09-30
 large_time_deposits_gt_250k,RCONJ474,2013-09-30
+mmda,RCON6810,2013-09-30
 nontransaction_accounts,RCON2385,2013-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-09-30
 reciprocal_brokered_deposits,RCONG803,2013-09-30
@@ -276,6 +287,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2013-12-31
 htm_fair_value,"RCON1771, RCFD1771",2013-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2013-12-31
 large_time_deposits_gt_250k,RCONJ474,2013-12-31
+mmda,RCON6810,2013-12-31
 nontransaction_accounts,RCON2385,2013-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2013-12-31
 reciprocal_brokered_deposits,RCONG803,2013-12-31
@@ -300,6 +312,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2014-03-31
 htm_fair_value,"RCON1771, RCFD1771",2014-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2014-03-31
 large_time_deposits_gt_250k,RCONJ474,2014-03-31
+mmda,RCON6810,2014-03-31
 nontransaction_accounts,RCON2385,2014-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2014-03-31
 reciprocal_brokered_deposits,RCONG803,2014-03-31
@@ -324,6 +337,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2014-06-30
 htm_fair_value,"RCON1771, RCFD1771",2014-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2014-06-30
 large_time_deposits_gt_250k,RCONJ474,2014-06-30
+mmda,RCON6810,2014-06-30
 nontransaction_accounts,RCON2385,2014-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2014-06-30
 reciprocal_brokered_deposits,RCONG803,2014-06-30
@@ -348,6 +362,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2014-09-30
 htm_fair_value,"RCON1771, RCFD1771",2014-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2014-09-30
 large_time_deposits_gt_250k,RCONJ474,2014-09-30
+mmda,RCON6810,2014-09-30
 nontransaction_accounts,RCON2385,2014-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2014-09-30
 reciprocal_brokered_deposits,RCONG803,2014-09-30
@@ -372,6 +387,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2014-12-31
 htm_fair_value,"RCON1771, RCFD1771",2014-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2014-12-31
 large_time_deposits_gt_250k,RCONJ474,2014-12-31
+mmda,RCON6810,2014-12-31
 nontransaction_accounts,RCON2385,2014-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2014-12-31
 reciprocal_brokered_deposits,RCONG803,2014-12-31
@@ -396,6 +412,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2015-03-31
 htm_fair_value,"RCON1771, RCFD1771",2015-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2015-03-31
 large_time_deposits_gt_250k,RCONJ474,2015-03-31
+mmda,RCON6810,2015-03-31
 nontransaction_accounts,RCON2385,2015-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2015-03-31
 reciprocal_brokered_deposits,RCONG803,2015-03-31
@@ -420,6 +437,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2015-06-30
 htm_fair_value,"RCON1771, RCFD1771",2015-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2015-06-30
 large_time_deposits_gt_250k,RCONJ474,2015-06-30
+mmda,RCON6810,2015-06-30
 nontransaction_accounts,RCON2385,2015-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2015-06-30
 reciprocal_brokered_deposits,RCONG803,2015-06-30
@@ -444,6 +462,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2015-09-30
 htm_fair_value,"RCON1771, RCFD1771",2015-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2015-09-30
 large_time_deposits_gt_250k,RCONJ474,2015-09-30
+mmda,RCON6810,2015-09-30
 nontransaction_accounts,RCON2385,2015-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2015-09-30
 reciprocal_brokered_deposits,RCONG803,2015-09-30
@@ -468,6 +487,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2015-12-31
 htm_fair_value,"RCON1771, RCFD1771",2015-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2015-12-31
 large_time_deposits_gt_250k,RCONJ474,2015-12-31
+mmda,RCON6810,2015-12-31
 nontransaction_accounts,RCON2385,2015-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2015-12-31
 reciprocal_brokered_deposits,RCONG803,2015-12-31
@@ -492,6 +512,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2016-03-31
 htm_fair_value,"RCON1771, RCFD1771",2016-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2016-03-31
 large_time_deposits_gt_250k,RCONJ474,2016-03-31
+mmda,RCON6810,2016-03-31
 nontransaction_accounts,RCON2385,2016-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2016-03-31
 reciprocal_brokered_deposits,RCONG803,2016-03-31
@@ -516,6 +537,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2016-06-30
 htm_fair_value,"RCON1771, RCFD1771",2016-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2016-06-30
 large_time_deposits_gt_250k,RCONJ474,2016-06-30
+mmda,RCON6810,2016-06-30
 nontransaction_accounts,RCON2385,2016-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2016-06-30
 reciprocal_brokered_deposits,RCONG803,2016-06-30
@@ -540,6 +562,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2016-09-30
 htm_fair_value,"RCON1771, RCFD1771",2016-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2016-09-30
 large_time_deposits_gt_250k,RCONJ474,2016-09-30
+mmda,RCON6810,2016-09-30
 nontransaction_accounts,RCON2385,2016-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2016-09-30
 reciprocal_brokered_deposits,RCONG803,2016-09-30
@@ -564,6 +587,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2016-12-31
 htm_fair_value,"RCON1771, RCFD1771",2016-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2016-12-31
 large_time_deposits_gt_250k,RCONJ474,2016-12-31
+mmda,RCON6810,2016-12-31
 nontransaction_accounts,RCON2385,2016-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2016-12-31
 reciprocal_brokered_deposits,RCONG803,2016-12-31
@@ -588,6 +612,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2017-03-31
 htm_fair_value,"RCON1771, RCFD1771",2017-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2017-03-31
 large_time_deposits_gt_250k,RCONJ474,2017-03-31
+mmda,RCON6810,2017-03-31
 nontransaction_accounts,RCON2385,2017-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2017-03-31
 reciprocal_brokered_deposits,RCONG803,2017-03-31
@@ -612,6 +637,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2017-06-30
 htm_fair_value,"RCON1771, RCFD1771",2017-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2017-06-30
 large_time_deposits_gt_250k,RCONJ474,2017-06-30
+mmda,RCON6810,2017-06-30
 nontransaction_accounts,RCON2385,2017-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2017-06-30
 reciprocal_brokered_deposits,RCONG803,2017-06-30
@@ -636,6 +662,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2017-09-30
 htm_fair_value,"RCON1771, RCFD1771",2017-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2017-09-30
 large_time_deposits_gt_250k,RCONJ474,2017-09-30
+mmda,RCON6810,2017-09-30
 nontransaction_accounts,RCON2385,2017-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2017-09-30
 reciprocal_brokered_deposits,RCONG803,2017-09-30
@@ -660,6 +687,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2017-12-31
 htm_fair_value,"RCON1771, RCFD1771",2017-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2017-12-31
 large_time_deposits_gt_250k,RCONJ474,2017-12-31
+mmda,RCON6810,2017-12-31
 nontransaction_accounts,RCON2385,2017-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2017-12-31
 reciprocal_brokered_deposits,RCONG803,2017-12-31
@@ -684,6 +712,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2018-03-31
 htm_fair_value,"RCON1771, RCFD1771",2018-03-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2018-03-31
 large_time_deposits_gt_250k,RCONJ474,2018-03-31
+mmda,RCON6810,2018-03-31
 nontransaction_accounts,RCON2385,2018-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2018-03-31
 reciprocal_brokered_deposits,RCONG803,2018-03-31
@@ -708,6 +737,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2018-06-30
 htm_fair_value,"RCON1771, RCFD1771",2018-06-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2018-06-30
 large_time_deposits_gt_250k,RCONJ474,2018-06-30
+mmda,RCON6810,2018-06-30
 nontransaction_accounts,RCON2385,2018-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2018-06-30
 reciprocal_brokered_deposits,RCONG803,2018-06-30
@@ -732,6 +762,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2018-09-30
 htm_fair_value,"RCON1771, RCFD1771",2018-09-30
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2018-09-30
 large_time_deposits_gt_250k,RCONJ474,2018-09-30
+mmda,RCON6810,2018-09-30
 nontransaction_accounts,RCON2385,2018-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2018-09-30
 reciprocal_brokered_deposits,RCONG803,2018-09-30
@@ -756,6 +787,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2018-12-31
 htm_fair_value,"RCON1771, RCFD1771",2018-12-31
 htm_securities,"RCON1754, RCON1754, RCFD1754, RCFD1754",2018-12-31
 large_time_deposits_gt_250k,RCONJ474,2018-12-31
+mmda,RCON6810,2018-12-31
 nontransaction_accounts,RCON2385,2018-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2018-12-31
 reciprocal_brokered_deposits,RCONG803,2018-12-31
@@ -780,6 +812,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2019-03-31
 htm_fair_value,"RCON1771, RCFD1771",2019-03-31
 htm_securities,"RCON1754, RCFD1754",2019-03-31
 large_time_deposits_gt_250k,RCONJ474,2019-03-31
+mmda,RCON6810,2019-03-31
 nontransaction_accounts,RCON2385,2019-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2019-03-31
 reciprocal_brokered_deposits,RCONG803,2019-03-31
@@ -804,6 +837,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2019-06-30
 htm_fair_value,"RCON1771, RCFD1771",2019-06-30
 htm_securities,"RCON1754, RCFD1754",2019-06-30
 large_time_deposits_gt_250k,RCONJ474,2019-06-30
+mmda,RCON6810,2019-06-30
 nontransaction_accounts,RCON2385,2019-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2019-06-30
 reciprocal_brokered_deposits,RCONG803,2019-06-30
@@ -828,6 +862,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2019-09-30
 htm_fair_value,"RCON1771, RCFD1771",2019-09-30
 htm_securities,"RCON1754, RCFD1754",2019-09-30
 large_time_deposits_gt_250k,RCONJ474,2019-09-30
+mmda,RCON6810,2019-09-30
 nontransaction_accounts,RCON2385,2019-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2019-09-30
 reciprocal_brokered_deposits,RCONG803,2019-09-30
@@ -852,6 +887,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2019-12-31
 htm_fair_value,"RCON1771, RCFD1771",2019-12-31
 htm_securities,"RCON1754, RCFD1754",2019-12-31
 large_time_deposits_gt_250k,RCONJ474,2019-12-31
+mmda,RCON6810,2019-12-31
 nontransaction_accounts,RCON2385,2019-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2019-12-31
 reciprocal_brokered_deposits,RCONG803,2019-12-31
@@ -876,6 +912,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2020-03-31
 htm_fair_value,"RCON1771, RCFD1771",2020-03-31
 htm_securities,"RCON1754, RCFD1754",2020-03-31
 large_time_deposits_gt_250k,RCONJ474,2020-03-31
+mmda,RCON6810,2020-03-31
 nontransaction_accounts,RCON2385,2020-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2020-03-31
 reciprocal_brokered_deposits,RCONG803,2020-03-31
@@ -900,6 +937,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2020-06-30
 htm_fair_value,"RCON1771, RCFD1771",2020-06-30
 htm_securities,"RCON1754, RCFD1754",2020-06-30
 large_time_deposits_gt_250k,RCONJ474,2020-06-30
+mmda,RCON6810,2020-06-30
 nontransaction_accounts,RCON2385,2020-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2020-06-30
 reciprocal_brokered_deposits,RCONG803,2020-06-30
@@ -924,6 +962,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2020-09-30
 htm_fair_value,"RCON1771, RCFD1771",2020-09-30
 htm_securities,"RCON1754, RCFD1754",2020-09-30
 large_time_deposits_gt_250k,RCONJ474,2020-09-30
+mmda,RCON6810,2020-09-30
 nontransaction_accounts,RCON2385,2020-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2020-09-30
 reciprocal_brokered_deposits,RCONG803,2020-09-30
@@ -948,6 +987,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2020-12-31
 htm_fair_value,"RCON1771, RCFD1771",2020-12-31
 htm_securities,"RCON1754, RCFD1754",2020-12-31
 large_time_deposits_gt_250k,RCONJ474,2020-12-31
+mmda,RCON6810,2020-12-31
 nontransaction_accounts,RCON2385,2020-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2020-12-31
 reciprocal_brokered_deposits,RCONG803,2020-12-31
@@ -972,6 +1012,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2021-03-31
 htm_fair_value,"RCON1771, RCFD1771",2021-03-31
 htm_securities,"RCON1754, RCFD1754",2021-03-31
 large_time_deposits_gt_250k,RCONJ474,2021-03-31
+mmda,RCON6810,2021-03-31
 nontransaction_accounts,RCON2385,2021-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2021-03-31
 reciprocal_brokered_deposits,RCONG803,2021-03-31
@@ -996,6 +1037,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2021-06-30
 htm_fair_value,"RCON1771, RCFD1771",2021-06-30
 htm_securities,"RCON1754, RCFD1754",2021-06-30
 large_time_deposits_gt_250k,RCONJ474,2021-06-30
+mmda,RCON6810,2021-06-30
 nontransaction_accounts,RCON2385,2021-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2021-06-30
 reciprocal_brokered_deposits,RCONG803,2021-06-30
@@ -1020,6 +1062,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2021-09-30
 htm_fair_value,"RCON1771, RCFD1771",2021-09-30
 htm_securities,"RCON1754, RCFD1754",2021-09-30
 large_time_deposits_gt_250k,RCONJ474,2021-09-30
+mmda,RCON6810,2021-09-30
 nontransaction_accounts,RCON2385,2021-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2021-09-30
 reciprocal_brokered_deposits,RCONG803,2021-09-30
@@ -1044,6 +1087,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2021-12-31
 htm_fair_value,"RCON1771, RCFD1771",2021-12-31
 htm_securities,"RCON1754, RCFD1754",2021-12-31
 large_time_deposits_gt_250k,RCONJ474,2021-12-31
+mmda,RCON6810,2021-12-31
 nontransaction_accounts,RCON2385,2021-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2021-12-31
 reciprocal_brokered_deposits,RCONG803,2021-12-31
@@ -1068,6 +1112,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2022-03-31
 htm_fair_value,"RCON1771, RCFD1771",2022-03-31
 htm_securities,"RCON1754, RCFD1754",2022-03-31
 large_time_deposits_gt_250k,RCONJ474,2022-03-31
+mmda,RCON6810,2022-03-31
 nontransaction_accounts,RCON2385,2022-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2022-03-31
 reciprocal_brokered_deposits,RCONG803,2022-03-31
@@ -1092,6 +1137,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2022-06-30
 htm_fair_value,"RCON1771, RCFD1771",2022-06-30
 htm_securities,"RCON1754, RCFD1754",2022-06-30
 large_time_deposits_gt_250k,RCONJ474,2022-06-30
+mmda,RCON6810,2022-06-30
 nontransaction_accounts,RCON2385,2022-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2022-06-30
 reciprocal_brokered_deposits,RCONG803,2022-06-30
@@ -1116,6 +1162,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2022-09-30
 htm_fair_value,"RCON1771, RCFD1771",2022-09-30
 htm_securities,"RCON1754, RCFD1754",2022-09-30
 large_time_deposits_gt_250k,RCONJ474,2022-09-30
+mmda,RCON6810,2022-09-30
 nontransaction_accounts,RCON2385,2022-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2022-09-30
 reciprocal_brokered_deposits,RCONG803,2022-09-30
@@ -1140,6 +1187,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2022-12-31
 htm_fair_value,"RCON1771, RCFD1771",2022-12-31
 htm_securities,"RCON1754, RCFD1754",2022-12-31
 large_time_deposits_gt_250k,RCONJ474,2022-12-31
+mmda,RCON6810,2022-12-31
 nontransaction_accounts,RCON2385,2022-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2022-12-31
 reciprocal_brokered_deposits,RCONG803,2022-12-31
@@ -1164,6 +1212,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2023-03-31
 htm_fair_value,"RCON1771, RCFD1771",2023-03-31
 htm_securities,"RCON1754, RCFD1754",2023-03-31
 large_time_deposits_gt_250k,RCONJ474,2023-03-31
+mmda,RCON6810,2023-03-31
 nontransaction_accounts,RCON2385,2023-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2023-03-31
 reciprocal_brokered_deposits,RCONG803,2023-03-31
@@ -1188,6 +1237,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2023-06-30
 htm_fair_value,"RCON1771, RCFD1771",2023-06-30
 htm_securities,"RCON1754, RCFD1754",2023-06-30
 large_time_deposits_gt_250k,RCONJ474,2023-06-30
+mmda,RCON6810,2023-06-30
 nontransaction_accounts,RCON2385,2023-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2023-06-30
 reciprocal_brokered_deposits,RCONG803,2023-06-30
@@ -1212,6 +1262,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2023-09-30
 htm_fair_value,"RCON1771, RCFD1771",2023-09-30
 htm_securities,"RCON1754, RCFD1754",2023-09-30
 large_time_deposits_gt_250k,RCONJ474,2023-09-30
+mmda,RCON6810,2023-09-30
 nontransaction_accounts,RCON2385,2023-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2023-09-30
 reciprocal_brokered_deposits,RCONG803,2023-09-30
@@ -1236,6 +1287,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2023-12-31
 htm_fair_value,"RCON1771, RCFD1771",2023-12-31
 htm_securities,"RCON1754, RCFD1754",2023-12-31
 large_time_deposits_gt_250k,RCONJ474,2023-12-31
+mmda,RCON6810,2023-12-31
 nontransaction_accounts,RCON2385,2023-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2023-12-31
 reciprocal_brokered_deposits,RCONG803,2023-12-31
@@ -1260,6 +1312,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2024-03-31
 htm_fair_value,"RCON1771, RCFD1771",2024-03-31
 htm_securities,"RCON1754, RCFD1754",2024-03-31
 large_time_deposits_gt_250k,RCONJ474,2024-03-31
+mmda,RCON6810,2024-03-31
 nontransaction_accounts,RCON2385,2024-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2024-03-31
 reciprocal_brokered_deposits,RCONG803,2024-03-31
@@ -1284,6 +1337,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2024-06-30
 htm_fair_value,"RCON1771, RCFD1771",2024-06-30
 htm_securities,"RCON1754, RCFD1754",2024-06-30
 large_time_deposits_gt_250k,RCONJ474,2024-06-30
+mmda,RCON6810,2024-06-30
 nontransaction_accounts,RCON2385,2024-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2024-06-30
 reciprocal_brokered_deposits,RCONG803,2024-06-30
@@ -1308,6 +1362,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2024-09-30
 htm_fair_value,"RCON1771, RCFD1771",2024-09-30
 htm_securities,"RCON1754, RCFD1754",2024-09-30
 large_time_deposits_gt_250k,RCONJ474,2024-09-30
+mmda,RCON6810,2024-09-30
 nontransaction_accounts,RCON2385,2024-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2024-09-30
 reciprocal_brokered_deposits,RCONG803,2024-09-30
@@ -1332,6 +1387,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2024-12-31
 htm_fair_value,"RCON1771, RCFD1771",2024-12-31
 htm_securities,"RCON1754, RCFD1754",2024-12-31
 large_time_deposits_gt_250k,RCONJ474,2024-12-31
+mmda,RCON6810,2024-12-31
 nontransaction_accounts,RCON2385,2024-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2024-12-31
 reciprocal_brokered_deposits,RCONG803,2024-12-31
@@ -1356,6 +1412,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2025-03-31
 htm_fair_value,"RCON1771, RCFD1771",2025-03-31
 htm_securities,"RCON1754, RCFD1754",2025-03-31
 large_time_deposits_gt_250k,RCONJ474,2025-03-31
+mmda,RCON6810,2025-03-31
 nontransaction_accounts,RCON2385,2025-03-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2025-03-31
 reciprocal_brokered_deposits,RCONG803,2025-03-31
@@ -1380,6 +1437,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2025-06-30
 htm_fair_value,"RCON1771, RCFD1771",2025-06-30
 htm_securities,"RCON1754, RCFD1754",2025-06-30
 large_time_deposits_gt_250k,RCONJ474,2025-06-30
+mmda,RCON6810,2025-06-30
 nontransaction_accounts,RCON2385,2025-06-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2025-06-30
 reciprocal_brokered_deposits,RCONG803,2025-06-30
@@ -1404,6 +1462,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2025-09-30
 htm_fair_value,"RCON1771, RCFD1771",2025-09-30
 htm_securities,"RCON1754, RCFD1754",2025-09-30
 large_time_deposits_gt_250k,RCONJ474,2025-09-30
+mmda,RCON6810,2025-09-30
 nontransaction_accounts,RCON2385,2025-09-30
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2025-09-30
 reciprocal_brokered_deposits,RCONG803,2025-09-30
@@ -1428,6 +1487,7 @@ fhlb_advances_le_1y,"RCON2651, RCFD2651",2025-12-31
 htm_fair_value,"RCON1771, RCFD1771",2025-12-31
 htm_securities,"RCON1754, RCFD1754",2025-12-31
 large_time_deposits_gt_250k,RCONJ474,2025-12-31
+mmda,RCON6810,2025-12-31
 nontransaction_accounts,RCON2385,2025-12-31
 other_borrowed_money,"RCON3190, RCON3190, RCFD3190, RCFD3190",2025-12-31
 reciprocal_brokered_deposits,RCONG803,2025-12-31
